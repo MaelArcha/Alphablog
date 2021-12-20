@@ -1,5 +1,7 @@
 # README
 
+- Make App Production Ready, Launch preparation
+
 Initial Commit
 Alpha Blog - Test_app version 2.6.4
 Ruby on rails
